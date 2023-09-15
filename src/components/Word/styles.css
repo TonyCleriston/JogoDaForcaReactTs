@@ -1,0 +1,12 @@
+.letras{
+    display: flex;
+          gap: .25em;
+          font-Size: 6rem;
+          font-Weight: bold;
+          text-Transform: uppercase;
+          font-Family: monospace;
+}
+.caixa {
+  border-Bottom: .1em solid black;
+}
+
